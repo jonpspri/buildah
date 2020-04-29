@@ -1,0 +1,11 @@
+buildah (1.14.8-0ubuntu1~ppa2) eoan; urgency=medium
+
+  * Ubuntu eoan 1.14.8
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Sun, 03 May 2020 21:58:23 -0400
+
+buildah (1.14.8-0ubuntu1~ppa1) focal; urgency=medium
+
+  * Ubuntu focal 1.14.8
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Sun, 03 May 2020 21:55:58 -0400

@@ -5,3 +5,4 @@ docs/buildah*.1
 tests/tools/build
 Dockerfile*
 *.swp
+/debian/files
