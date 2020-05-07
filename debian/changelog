@@ -1,3 +1,10 @@
+buildah (1.14.8-1) eoan; urgency=medium
+
+  * Bump debhelper-compat back to 11 to support bionic
+  * Remove dependency on libbtrfs-dev
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Sun, 03 May 2020 21:58:23 -0400
+
 buildah (1.14.8-0ubuntu1~ppa2) eoan; urgency=medium
 
   * Ubuntu eoan 1.14.8

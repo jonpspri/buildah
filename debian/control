@@ -2,12 +2,11 @@ Source: buildah
 Section: devel
 Priority: optional
 Maintainer: Jonathan Springer <jonpspri@gmail.com>
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper-compat (= 11),
   bash-completion,
   dh-golang,
   golang-go,
   go-md2man,
-  libbtrfs-dev,
   libdevmapper-dev,
   libgpgme-dev,
   libseccomp-dev,
