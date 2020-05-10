@@ -21,7 +21,8 @@ Architecture: any
 Depends: ${misc:Depends},${shlib:Depends},
   containers-common,
   libgpgme11,
-  libseccomp2
+  libseccomp2,
+  runc
 Recommends: uidmap
 Description: A tool that facilitates building OCI images
  The Buildah package provides a command line tool that can be used to

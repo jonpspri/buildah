@@ -1,3 +1,9 @@
+buildah (1.14.8-2) eoan; urgency=medium
+
+  * Add dependency on runc
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Sun, 10 May 2020 13:38:24 -0400
+
 buildah (1.14.8-1) eoan; urgency=medium
 
   * Bump debhelper-compat back to 11 to support bionic
